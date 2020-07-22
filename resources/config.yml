@@ -1,0 +1,17 @@
+reward: 5
+
+x-start: 1
+y-start: 65
+z-start: 1
+level-start: "world"
+
+x-finish: 2
+y-finish: 65
+z-finish: 2
+level-finish: "world"
+
+already-jobbing: "You are already working"
+job-start: "You have successfully started work"
+
+job-error: "You are not working yet"
+job-finish: "You received {REWARD}"
